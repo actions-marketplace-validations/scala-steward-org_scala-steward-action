@@ -35,7 +35,7 @@
     "node-fetch": "^2.6.7"
   },
   "devDependencies": {
-    "@ava/typescript": "^3.0.1",
+    "@ava/typescript": "^4.0.0",
     "@types/node": "^18.11.8",
     "@vercel/ncc": "^0.34.0",
     "all-contributors-cli": "^6.24.0",
